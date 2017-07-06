@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Giro della città</string>
+    <string name="title_activity_maps">Mappa</string>
+    <string name="email_field">Email</string>
+    <string name="password_field">Password</string>
+    <string name="sign_up">Registrazione</string>
+    <string name="log_in">Login</string>
+    <string name="login_error_title">Errore!</string>
+    <string name="login_error_message">Inserisci e-mail e password corrette!</string>
+    <string name="help">Aiuto</string>
+    <string name="settings">Impostazioni</string>
+</resources>

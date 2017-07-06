@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">City tour</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="email_field">Email</string>
+    <string name="password_field">Password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="log_in">Login</string>
+    <string name="login_error_title">Error!</string>
+    <string name="login_error_message">Enter correct eMail and Password!</string>
+    <string name="logout">logout</string>
+    <string name="add_todo_item">Add Todo Item</string>
+
+</resources>

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "105997764095",
+    "firebase_url": "https://tourcitta.firebaseio.com",
+    "project_id": "tourcitta",
+    "storage_bucket": "tourcitta.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:105997764095:android:f363237842783003",
+        "android_client_info": {
+          "package_name": "com.example.bianc.tourcitta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "105997764095-aiutgeer1uusmunmp6k3678itpio68sm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bianc.tourcitta",
+            "certificate_hash": "3dfe23705d4a9b70f24cd5b82fdce8f60a6e423d"
+          }
+        },
+        {
+          "client_id": "105997764095-u518l1q4j1rof2h7sfsqt89rrvpjiddn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSPUAA_ShZWFZrepZGfAYGfKKp3el3QLs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "105997764095-u518l1q4j1rof2h7sfsqt89rrvpjiddn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
